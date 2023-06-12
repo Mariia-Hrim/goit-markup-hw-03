@@ -636,10 +636,10 @@ ul {
   fill: #ffffff;
 }
 
-.modal-btn:hover .close-icon,
+/*.modal-btn:hover .close-icon,
 .modal-btn:focus .close-icon {
   fill: #ffffff;
-}
+}*/
 .close-icon {
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
