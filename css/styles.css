@@ -646,15 +646,14 @@ ul {
 .modal-btn:hover {
   background-color: #404bbf;
   border: none;
-  fill: #ffffff;
 }
 .modal-btn:focus {
   background-color: #404bbf;
   border: none;
-  fill: #ffffff;
 }
 .close-icon {
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  fill: #ffffff;
 }
 .is-hidden {
   visibility: hidden;
