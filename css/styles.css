@@ -118,9 +118,10 @@ ul {
   transition: color 250ms, cubic-bezier(0.4, 0, 0.2, 1);
 }
 .header-menu-list {
-  transition: color 250ms, cubic-bezier(0.4, 0, 0.2, 1);
+  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .header-menu-item {
+  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .header-menu-link {
   font-family: "Roboto";
@@ -131,7 +132,7 @@ ul {
   letter-spacing: 0.02em;
   color: var(--title-color);
   padding: 24px 0;
-  transition: color 250ms, cubic-bezier(0.4, 0, 0.2, 1);
+  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   position: relative;
   color: #404bbf;
 }
@@ -345,7 +346,7 @@ ul {
 .icon-item {
   width: 40px;
   height: 40px;
-  background-color: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  background-color: 250ms, cubic-bezier(0.4, 0, 0.2, 1);
 }
 .team-title {
   text-align: center;
