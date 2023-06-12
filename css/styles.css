@@ -793,6 +793,6 @@ ul {
   position: relative;
   overflow: hidden;
 }
-.imgs-overflow:hover .imgs-cover-text {
+/*.imgs-overflow:hover .imgs-cover-text {
   transform: translate(0);
-}
+}*/
