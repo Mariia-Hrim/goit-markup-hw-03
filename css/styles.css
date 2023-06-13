@@ -463,7 +463,7 @@ ul {
 }
 .customers-item {
   height: 88px;
-  width: calc((100% - 120px) / 6);
+  width: calc((100% - 120px) / 7);
 }
 .customers-link {
   width: 100%;
