@@ -463,11 +463,11 @@ ul {
   gap: 24px;
   justify-content: center;
   align-items: center;
+  padding-left: 0;
 }
 .customers-item {
   height: 88px;
   width: calc((100% - 120px) / 6);
-  padding-left: 0;
 }
 .customers-link {
   width: 100%;
