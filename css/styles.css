@@ -463,11 +463,11 @@ ul {
   gap: 24px;
   justify-content: center;
   align-items: center;
-  padding-left: 0;
 }
 .customers-item {
   height: 88px;
   width: calc((100% - 120px) / 6);
+  padding-left: 0;
 }
 .customers-link {
   width: 100%;
@@ -635,6 +635,7 @@ ul {
 .modal-btn:focus {
   background-color: #404bbf;
   border: none;
+  fill: #ffffff;
 }
 
 .modal-btn:hover .icon-close-black,
